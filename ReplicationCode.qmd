@@ -1,8 +1,10 @@
 ---
-title: "Repliction Code for "Effects of Ethnic Voting and Inequality on Democracy" https://doi.org/10.33063/pbj.v12i2025.704
+title: "Repliction Code for "Effects of Ethnic Voting and Inequality on Democracy" 
 output: html_document
 date: "2026-01-31"
 ---
+
+#This is the replication code for Bergstein, F. (2025). Effects of Ethnic Voting and Inequality on Democracy. Pax et Bellum Journal, 12. https://doi.org/10.33063/pbj.v12i2025.704
 
 #Packages
 ```{r Packages}
